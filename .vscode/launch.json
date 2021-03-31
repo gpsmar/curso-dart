@@ -8,7 +8,7 @@
             "name": "Dart",
             "type": "dart",
             "request": "launch",
-            "program": "teste/teste_carro.dart"
+            "program": "notas_fiscais/teste_nf.dart"
         }
     ]
 }
